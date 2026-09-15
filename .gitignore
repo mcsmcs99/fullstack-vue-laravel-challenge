@@ -1,0 +1,16 @@
+# Backend (Laravel)
+api/vendor/
+api/.env
+
+# Frontend (Vue + Vite)
+web/node_modules/
+web/.env
+web/dist/
+
+# Temporary files / logs
+*.log
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
